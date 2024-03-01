@@ -42,3 +42,4 @@ The code for a straightforward Python dependency parser that makes use of SpaCy 
 6. get the app:
 
     Access the app in your web browser at `http://localhost:8501`.
+
