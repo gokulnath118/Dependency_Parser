@@ -12,7 +12,7 @@ def parse_with_spacy(sentence):
     return dependencies, doc
 
 # Streamlit UI
-st.title("Dependency Parser with tika")
+st.title("Dependency Parser")
 
 # Input text area for user input
 sentence_input = st.text_area("Enter a sentence for parsing:")
