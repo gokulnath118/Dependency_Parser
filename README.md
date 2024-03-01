@@ -10,6 +10,7 @@ The code for a straightforward Python dependency parser that makes use of SpaCy 
 ## Requirements
 
 - Python 3
+- django
 - Create a virtual environment using Python-django and install the requirements.txt file using the command pip install -r requirements.txt
 
 ## Procedure to run the program
@@ -38,6 +39,6 @@ The code for a straightforward Python dependency parser that makes use of SpaCy 
     ```Terminal
     streamlit run app.py
 
-6. Access the app in your browser:
+6. get the app:
 
     Access the app in your web browser at `http://localhost:8501`.
