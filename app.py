@@ -1,6 +1,5 @@
 import spacy
 import streamlit as st
-from tika import parser as tikaparser
 
 # Load the English language model
 nlp = spacy.load("en_core_web_sm")
